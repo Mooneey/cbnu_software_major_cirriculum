@@ -2,7 +2,7 @@ export const fundamentalsCollection = {
 	name: "기초",
 	areas: [
 		{
-			//			name: "HTML",
+			name: "HTML",
 			skills: [
 				{
 					name: "1학년",
@@ -96,6 +96,7 @@ export const fundamentalsCollection = {
 																								text: "Learn what W3C are doing and how they are moving the web forward.",
 																								links: [
 																									["W3C - About", "https://www.w3.org/standards/about.html"],
+																								]
 																							}
 																						},
 																					]
@@ -251,6 +252,7 @@ export const fundamentalsCollection = {
 
 
 		{
+			name: "2학년",
 			skills: [
 				{
 					name: "2학년",
