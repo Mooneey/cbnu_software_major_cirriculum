@@ -108,15 +108,6 @@ export const fundamentalsCollection = {
 				},
 				{
 					name: "2학기",
-					description: {
-						text: "Learn what TC39 are doing and how they are moving the web forward.",
-						links: [
-							["The TC39 process for ECMAScript features", "https://2ality.com/2015/11/tc39-process.html"],
-							["Github - TC39", "https://github.com/tc39"],
-							["Ecma International - Programme of work", "https://www.ecma-international.org/memento/tc39.htm"],
-							["Wikipedia - Ecma International", "https://en.wikipedia.org/wiki/Ecma_International"],
-						]
-					},
 					skills: [
 						{
 							name: "컴퓨터 시스템 개론",
